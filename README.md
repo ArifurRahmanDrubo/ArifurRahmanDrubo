@@ -1,7 +1,8 @@
-
-![Full Stack Web Developer](Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image.gif)
 ### Hi there 👋, I am Arifur Rahman Drubo
 #### Full Stack Web Developer
+![Banner Image](https://raw.githubusercontent.com/ArifurRahmanDrubo/ArifurRahmanDrubo/main/Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image.gif
+)
+
 👋 Hi, I’m Arifur Rahman Drubo, a Computer Science and Engineering student diving into the world of Full Stack Development with a keen focus on the Laravel Framework. As a Junior Full Stack Developer, I am passionate about crafting modern, scalable web solutions that make a difference.My expertise lies in using Laravel and Vue.js to build dynamic applications that tackle real-world challenges. I’m committed to continuous learning and innovation in my coding journey. Let’s collaborate and bring exciting ideas to life!
 
 Skills: VUE JS / REACT / JS / HTML / CSS
@@ -24,6 +25,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/ArifurRahmanDrubo)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=ArifurRahmanDrubo)  
+
+
 
 
 
