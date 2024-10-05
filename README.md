@@ -52,27 +52,6 @@
 
 
 
-### 🔝 Top Contributed Repo
-
-
-<div align="center">
- 
-![](https://github-contributor-stats.vercel.app/api?username=arifurrahmandrubo&limit=5&theme=monokai&combine_all_yearly_contributions=true)
-
-</div>
-
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
 # 📊 My Profile Summary:
 
 
