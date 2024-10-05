@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Arifur Rahman Drubo
 #### Full Stack Web Developer
-(https://www.canva.com/design/DAGStb_K7lY/YYAL4O4vkR0pkIaMDfJPOA/edit?utm_content=DAGStb_K7lY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Full Stack Web Developer](https://www.canva.com/design/DAGStb_K7lY/AjUjyUqq41If0molW7qZqQ/watch?utm_content=DAGStb_K7lY&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 👋 Hi, I’m Arifur Rahman Drubo, a Computer Science and Engineering student diving into the world of Full Stack Development with a keen focus on the Laravel Framework. As a Junior Full Stack Developer, I am passionate about crafting modern, scalable web solutions that make a difference.My expertise lies in using Laravel and Vue.js to build dynamic applications that tackle real-world challenges. I’m committed to continuous learning and innovation in my coding journey. Let’s collaborate and bring exciting ideas to life!
 
@@ -24,4 +24,6 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub metrics](https://metrics.lecoq.io/https://github.com/ArifurRahmanDrubo)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/ArifurRahmanDrubo)  
+
+
 
