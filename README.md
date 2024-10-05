@@ -28,6 +28,7 @@
 </br>
 [![My Skills](https://skillicons.dev/icons?i=laravel,vue,mysql,react)](https://skillicons.dev) 
 </br>
+[![My Skills](https://skillicons.dev/icons?i=html,tailwind,css,js)](https://skillicons.dev) 
 
 </div>
 
