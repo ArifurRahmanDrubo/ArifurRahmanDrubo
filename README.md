@@ -2,9 +2,7 @@
 ![Banner Image](https://github.com/ArifurRahmanDrubo/ArifurRahmanDrubo/blob/540d1fa799ddbdbab971e8d91ee2c12f5d598d51/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.gif)
 👋 Hi, I’m Arifur Rahman Drubo, a Computer Science and Engineering student diving into the world of Full Stack Development with a keen focus on the Laravel Framework. As a Junior Full Stack Developer, I am passionate about crafting modern, scalable web solutions that make a difference.My expertise lies in using Laravel and Vue.js to build dynamic applications that tackle real-world challenges. I’m committed to continuous learning and innovation in my coding journey. Let’s collaborate and bring exciting ideas to life!
 
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+[![ArifurRahmanDrubo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifurRahmanDrubo)](https://github.com/ArifurRahmanDrubo/github-readme-stats)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArifurRahmanDrubo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://facebook.com/ArifurRahmanDrubo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://Instagram.com/ArifurRahmanDrubo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](drubo.netlify.app)  
