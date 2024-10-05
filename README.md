@@ -52,7 +52,7 @@
 
 
 
-# 📊 My Profile Summary:
+# 📊 Profile Summary:
 
 
 <div align="center">
