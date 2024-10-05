@@ -38,7 +38,7 @@
 
 <div align="center">
  
-![](https://github-readme-stats.vercel.app/api?username=arifurrahmandrubo&theme=dark&hide_border=false&include_all_commits=false&count_icons=true&count_private=true) 
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arifurrahmandrubo&theme=dark&hide_border&show_icons=true&count_private=true) 
 </br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arifurrahmandrubo&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifurrahmandrubo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -50,7 +50,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifurRahmanDrubo)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifurRahmanDrubo&show_icons=true&count_private=true)  
+ 
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ArifurRahmanDrubo/contributions?format=svg&private=true)  
 
